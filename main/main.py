@@ -2,7 +2,7 @@ from telebot import *
 from output import *
 import processing
 
-API_TOKEN = '6075150372:AAFcAHmSXr-XfOCej8LD58yu4JYblt9fceo'
+API_TOKEN = 'YOUR-TOKEN'
 
 bot = TeleBot(API_TOKEN)
 
